@@ -444,3 +444,4 @@ C:\Users\219747\projetos\MarketSystemProduct\MarketSystemProduct\obj\Debug\net8.
 C:\Users\219747\projetos\MarketSystemProduct\MarketSystemProduct\obj\Debug\net8.0\MarketSystemProduct.pdb
 C:\Users\219747\projetos\MarketSystemProduct\MarketSystemProduct\obj\Debug\net8.0\MarketSystemProduct.genruntimeconfig.cache
 C:\Users\219747\projetos\MarketSystemProduct\MarketSystemProduct\obj\Debug\net8.0\ref\MarketSystemProduct.dll
+C:\Users\219747\projetos\MarketSystemProduct\MarketSystemProduct\obj\Debug\net8.0\MarketSystemProduct.sourcelink.json

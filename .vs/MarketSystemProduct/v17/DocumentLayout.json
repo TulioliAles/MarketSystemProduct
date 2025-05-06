@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|c:\\users\\219747\\projetos\\marketsystemproduct\\marketsystemproduct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|solutionrelative:marketsystemproduct\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|c:\\users\\219747\\projetos\\marketsystemproduct\\marketsystemproduct\\migrations\\20250506234953_adicionandotabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|solutionrelative:marketsystemproduct\\migrations\\20250506234953_adicionandotabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|c:\\users\\219747\\projetos\\marketsystemproduct\\marketsystemproduct\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|solutionrelative:marketsystemproduct\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|c:\\users\\219747\\projetos\\marketsystemproduct\\marketsystemproduct\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|solutionrelative:marketsystemproduct\\models\\produtomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|c:\\users\\219747\\projetos\\marketsystemproduct\\marketsystemproduct\\models\\categoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4424039A-C8ED-46CE-9A20-03081716FA77}|MarketSystemProduct\\MarketSystemProduct.csproj|solutionrelative:marketsystemproduct\\models\\categoriamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +42,54 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250506234953_AdicionandoTabelas.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Migrations\\20250506234953_AdicionandoTabelas.cs",
+              "RelativeDocumentMoniker": "MarketSystemProduct\\Migrations\\20250506234953_AdicionandoTabelas.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Migrations\\20250506234953_AdicionandoTabelas.cs",
+              "RelativeToolTip": "MarketSystemProduct\\Migrations\\20250506234953_AdicionandoTabelas.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:49:54.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "MarketSystemProduct\\Data\\DataContext.cs",
               "ToolTip": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Data\\DataContext.cs",
               "RelativeToolTip": "MarketSystemProduct\\Data\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:20:44.784Z",
+              "WhenOpened": "2025-05-06T23:41:25.99Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MarketSystemProduct\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MarketSystemProduct\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProdutoModel.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Models\\ProdutoModel.cs",
+              "RelativeDocumentMoniker": "MarketSystemProduct\\Models\\ProdutoModel.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Models\\ProdutoModel.cs",
+              "RelativeToolTip": "MarketSystemProduct\\Models\\ProdutoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T23:17:36.053Z",
+              "WhenOpened": "2025-05-06T23:34:55.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriaModel.cs",
+              "DocumentMoniker": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Models\\CategoriaModel.cs",
+              "RelativeDocumentMoniker": "MarketSystemProduct\\Models\\CategoriaModel.cs",
+              "ToolTip": "C:\\Users\\219747\\projetos\\MarketSystemProduct\\MarketSystemProduct\\Models\\CategoriaModel.cs",
+              "RelativeToolTip": "MarketSystemProduct\\Models\\CategoriaModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T23:34:12.795Z",
               "EditorCaption": ""
             }
           ]
